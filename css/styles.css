@@ -1,0 +1,21 @@
+body {
+  background-color: #F8F0DF;
+
+  }
+h1 {
+  color: rgb(52, 91, 99);
+}
+
+h2{
+  color: black;
+}
+
+hr {
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-w: 5px;
+  width: 5%;
+
+}
