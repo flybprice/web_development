@@ -19,3 +19,7 @@ hr {
   width: 5%;
 
 }
+
+img:hover{
+  width:300px;height:400px
+}

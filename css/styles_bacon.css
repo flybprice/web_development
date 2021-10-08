@@ -1,8 +1,30 @@
+/*****tag selectors****/
+
+
+
+
 h1 {
     color: red;
-    font-size: 200px;
+    font-size: 100px;
 }
 
-img{
-    bac
+img:hover{
+    background: blue;
+}
+
+/*****Class Selectors*****/
+
+.bacon {
+  background-color: green;
+}
+
+.broc {
+  background-color: red;
+}
+
+/*****ID selectors*/
+
+#heading {
+color: blue;
+
 }
