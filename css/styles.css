@@ -41,6 +41,8 @@ div.gallery {
   border: 1px solid #ccc;
   float: left;
   width: 150px;
+  background-color: teal;
+
 }
 
 div.gallery:hover {
@@ -49,10 +51,12 @@ div.gallery:hover {
 
 div.gallery img {
   width: 100%;
-  height: auto;
+  height: 150px;
+
 }
 
 div.desc {
   padding: 15px;
   text-align: center;
+  background-color: pink;
 }
